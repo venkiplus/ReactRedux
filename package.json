@@ -1,7 +1,7 @@
 {
   "name": "ReactRedux",
   "version": "1.0.0",
-  "description": "Getting started with react and redux POC",
+  "description": "Getting started with react and redux POC ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
